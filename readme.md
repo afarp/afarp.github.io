@@ -8,15 +8,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : ¿Qué hay en la caja?
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Auba Far Palmer
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Resumen** : Estre proyecto muestra el reocorrido que lleva a cabo Ona, nuestra protagonista, buscando la llave que le permitirá abrir la misteriosa caja que encontró en un campo.
+**Estilo/género:**  juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
