@@ -15,6 +15,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Autor:**  Auba Far Palmer
 
 **Resumen** : Estre proyecto muestra el reocorrido que lleva a cabo Ona, nuestra protagonista, buscando la llave que le permitirá abrir la misteriosa caja que encontró en un campo.
+
 **Estilo/género:**  juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
