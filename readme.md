@@ -16,11 +16,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Estre proyecto muestra el reocorrido que lleva a cabo Ona, nuestra protagonista, buscando la llave que le permitirá abrir la misteriosa caja que encontró en un campo.
 
-**Estilo/género:**  juego
+**Estilo/género:**  juego infantil
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** :
+![Loopfoto](https://github.com/afarp/afarp.github.io/assets/134588146/86df0cc3-8849-4ce4-8312-63811e8741ca)
+ 
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -35,8 +36,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -47,9 +47,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+![Storyboard](https://github.com/afarp/afarp.github.io/assets/134588146/c84699fc-db19-467d-84c4-a7ef8a2eded9)
+Ona se encuenra una caja.
+El menú nos lleva a los créditos, la galería y al juego. El juego es un guego de cartas en el que tienes que emparejar letras.
 
 ### 2.2. Esquema de navegación 
 
