@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : ¿Qué hay en la caja?
 
-**Web:**   (url github.io)
+**Web:**  afarp.github.io
 
 **Autor:**  Auba Far Palmer
 
