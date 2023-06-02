@@ -121,7 +121,7 @@ De cara al futuro me gustaría lograr que tanto el video como la unión de los d
 
 **Recursos y materiales audiovisuales:**
 
-* Musica: Jamendo Music, Yputube
+* Musica: Jamendo Music, YouTube
 * Imágenes: Auba Far Palmer 
 * Tipografía: Auba Far Palmer
 
