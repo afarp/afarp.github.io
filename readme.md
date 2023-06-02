@@ -28,6 +28,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**  
 Google Chrome
+
 MS Edge
 
 **Tamaño proyecto:** 14MB 
@@ -117,20 +118,17 @@ De cara al futuro me gustaría lograr que tanto el video como la unión de los d
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Jamendo Music, Yputube
+* Imágenes: Auba Far Palmer 
+* Tipografía: Auba Far Palmer
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
 
 
 
@@ -138,4 +136,4 @@ De cara al futuro me gustaría lograr que tanto el video como la unión de los d
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+Junio 2023
