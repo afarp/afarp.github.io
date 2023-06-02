@@ -19,6 +19,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  juego infantil
 
 **Logotipo** :
+
+
 ![Loopfoto](https://github.com/afarp/afarp.github.io/assets/134588146/86df0cc3-8849-4ce4-8312-63811e8741ca)
  
 
@@ -31,15 +33,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 02/06/2023
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
+- Github: afarp.github.io
 
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
