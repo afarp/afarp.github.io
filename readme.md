@@ -31,7 +31,7 @@ Google Chrome
 
 MS Edge
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 9.293 KB
 
 **Licencia**
 
