@@ -33,7 +33,7 @@ MS Edge
 
 **Tamaño proyecto:** 14MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia**
 
 **Fecha** : 02/06/2023
 
