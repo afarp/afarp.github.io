@@ -39,8 +39,8 @@ MS Edge
 
 **Medios**
 
-- Github: afarp.github.io
-
+- Github: [afarp.github.io
+](https://afarp.github.io)
 
 # 2. Memoria del proyecto 
 
