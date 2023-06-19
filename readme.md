@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+¿QUÉ HAY EN LA CAJA?
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -47,16 +47,17 @@ MS Edge
 ### 2.1 Storyboard: 
 
 
+![SB](https://github.com/afarp/afarp.github.io/assets/134588146/4641cc05-63b3-42d7-b691-f9225e5d1ec7)
 
-![Storyboard](https://github.com/afarp/afarp.github.io/assets/134588146/c84699fc-db19-467d-84c4-a7ef8a2eded9)
 Ona se encuenra una caja.
 El menú nos lleva a los créditos, la galería y al juego. El juego es un guego de cartas en el que tienes que emparejar letras.
 
 ### 2.2. Esquema de navegación 
 
 
+![SB2](https://github.com/afarp/afarp.github.io/assets/134588146/53131ea0-3883-44b3-99c0-f12a6d752bd4)
 
-![Ilustración_sin_título](https://github.com/afarp/afarp.github.io/assets/134588146/72d4fa71-eb4e-48f9-bd42-8ceaaca0e32a)
+
 
 
 
@@ -103,6 +104,9 @@ Este  proyecto es interesante porque pretende ser juego infantil centrado en mot
 
 Tengo problemas con el video ya que no he logrado que se reproduzca a pesar de que se encuentra en su carpeta correspondiente y los nombres de archivo funcionan. 
 También he tenido problemas para volver del juego al menú ya que al estar en dos archivos distintos se ha extraviado la dirección por el camino
+
+ - MEJORAS
+    He mejorado el juego añadiendo imágenes en los botones a los que les faltaba una imagen pulsada y he cambiado el botón de inicio. También he añadido una escena final que indica al jugador que ha logrado          superar el juego y que te reconduce de nuevo al inicio del teaser. He solucionado los problemas que surguían cuando intentaba recxonducir los archivos de un fichero a otro y por úlimo, he logrado la              reproducción del video.
 
 
 
