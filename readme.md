@@ -115,7 +115,8 @@ También he tenido problemas para volver del juego al menú ya que al estar en d
 A pesar de los errores estoy contenta con el resultado ya que la asignatura en sí me ha resultado realmente complicada. 
 De cara al futuro me gustaría lograr que tanto el video como la unión de los dos archivos funcionaran correctamente y me gustaría que la animación en la que se ordenan las letras formando una palabra fuera un juego.
 
-
+ - CONCLUSIONES FINALES
+    Estoy muy contenta con la resoluciñon final del proyecto ya que, auque no he hecho otro juego a parte del que ya había en un inicio, he solucionado todos los problemas que me ocasionaba el proyecto               originalmente.
 
 
 
