@@ -129,6 +129,9 @@ De cara al futuro me gustaría lograr que tanto el video como la unión de los d
 
 - Hippani Animator 5.1
 - Procreate
+- Abidemux
+- Audacity
+- Jamendo Music
 
 
 
