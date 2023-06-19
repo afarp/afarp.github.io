@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Auba Far Palmer
 
-**Resumen** : Estre proyecto muestra el reocorrido que lleva a cabo Ona, nuestra protagonista, buscando la llave que le permitirá abrir la misteriosa caja que encontró en un campo.
+**Resumen** : Estre proyecto muestra el reocorrido que lleva a cabo Ona, nuestra protagonista, buscando la llave que le permitirá abrir la misteriosa caja que encontró en el campo.
 
 **Estilo/género:**  juego infantil
 
@@ -93,8 +93,8 @@ Este  proyecto es interesante porque pretende ser juego infantil centrado en mot
 
 
 - Juego: consiste en juntar cada letra con su pareja.
-- Video: consiste en un speed painting sobre como fue diseñada Ona.
-- Instrucciones y ayuda al usuario: antes de empezar a jugar hay una pequeña ezplicación para orientar al jugador sobre lo que debe hacer y antes de empezar el juego se abre una pestaña que te indica lo que se supone que se debe hacer.
+- Video: es un speed painting sobre como fue diseñada Ona.
+- Instrucciones y ayuda al usuario: antes de empezar a jugar hay una pequeña explicación que orienta al jugador; además, antes de iniciar el juego se abre una pestaña que explica en que consiste el juego.
 - Menús y elementos de navegación (botones): Los botones se ajustan a la estetica del juego y parten de iconos que te indican hacia dónde te conduce cada uno.
 
 
@@ -106,7 +106,7 @@ Tengo problemas con el video ya que no he logrado que se reproduzca a pesar de q
 También he tenido problemas para volver del juego al menú ya que al estar en dos archivos distintos se ha extraviado la dirección por el camino
 
  - MEJORAS
-    He mejorado el juego añadiendo imágenes en los botones a los que les faltaba una imagen pulsada y he cambiado el botón de inicio. También he añadido una escena final que indica al jugador que ha logrado          superar el juego y que te reconduce de nuevo al inicio del teaser. He solucionado los problemas que surguían cuando intentaba recxonducir los archivos de un fichero a otro y por úlimo, he logrado la              reproducción del video.
+    He mejorado el juego añadiendo imágenes en los botones a los que les faltaba una imagen pulsada y he cambiado el botón de inicio. También he añadido una imagen en el menú del juego que te indica directamente     que se debe buscar entre las setas y una escena final que indica al jugador que ha logrado superar el juego y que te reconduce de nuevo al teaser. He solucionado los problemas que surguían cuando intentaba       reconducir los archivos de un fichero a otro y por úlimo, he logrado la reproducción del video.
 
 
 
